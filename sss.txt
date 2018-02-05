@@ -1,3 +1,4 @@
-Fresher B�i Quang Thi
+Fresher Bùi Quang Thi
 Demo Git-GitHub
 Thay doi lan 2
+Demo chức năng đồng bộ hóa dữ liệu
